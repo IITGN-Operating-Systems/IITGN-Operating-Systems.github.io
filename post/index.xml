@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on OS Labs</title>
-    <link>http://10.0.118.104:8330/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on OS Labs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://10.0.118.104:8330/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lab 3: Shell and Bootloader Phase 1</title>
-      <link>http://10.0.118.104:8330/post/lab3/</link>
+      <link>/post/lab3/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://10.0.118.104:8330/post/lab3/</guid>
+      <guid>/post/lab3/</guid>
       <description>Introduction In this assignment, you will write useful utilities, libraries, and a simple shell for Raspberry Pi. This is just a single phase of this exercise and we&amp;rsquo;ll be going over the rest of them in the incoming weeks.&#xA;Please insure you&amp;rsquo;ve setup the environment as described on Tools page .&#xA;This is the directory structure of our repository. The directories you will be working on this lab section are marked with *.</description>
     </item>
     <item>
       <title>Tools</title>
-      <link>http://10.0.118.104:8330/post/env_setup/</link>
+      <link>/post/env_setup/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://10.0.118.104:8330/post/env_setup/</guid>
+      <guid>/post/env_setup/</guid>
       <description>Setting up the environment Before starting to this series of lab assignments, please make sure that you have followed the environment setup described below.&#xA;Our labs are designed based on Ubuntu 20.04 LTS. This is done using docker so that everyone has similar setups.&#xA;We recommend you to stick to this ubuntu version unless you might face some configuration issues.&#xA;You will also be using use QEMU, an x86 emulator for easier executing and debugging process instead of using real raspberry pi board.</description>
     </item>
   </channel>
