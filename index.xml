@@ -12,7 +12,7 @@
       <link>/post/lab4/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       <guid>/post/lab4/</guid>
-      <description>Phase 2: Not a Seashell Due to Raspberry Pi devices being unavailable at the moment, we have to skip the implementation parts of Subphase B and C.&#xA;The template code already has the implementation ready. Please read through them to understand the code though.&#xA;In this phase, you will be implementing drivers for the built-in timer, GPIO, and UART devices. You&amp;rsquo;ll use then these drivers to implement a simple shell. In the next phase, you&amp;rsquo;ll use the same drivers to implement a bootloader.</description>
+      <description>Getting Started Fetch the update for lab 4 from our git repository to your development machine.&#xA;git fetch skeleton git merge skeleton/lab4 You may need to resolve conflicts before continuing. For example, if you see a message that looks like:&#xA;Auto-merging kern/src/main.rs CONFLICT (content): Merge conflict in kern/src/main.rs Automatic merge failed; fix conflicts and then commit the result. You will need to manually modify the relevent files to resolve the conflict.</description>
     </item>
     <item>
       <title>Lab 3: Shell and Bootloader Phase 1</title>
