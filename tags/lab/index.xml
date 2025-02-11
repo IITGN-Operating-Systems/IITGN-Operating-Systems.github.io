@@ -6,8 +6,15 @@
     <description>Recent content in Lab on OS Labs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2025 17:34:04 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 03:18:17 +0530</lastBuildDate>
     <atom:link href="/tags/lab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lab 4: Shell and Bootloader Phase 2</title>
+      <link>/post/lab4/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/post/lab4/</guid>
+      <description>Phase 2: Not a Seashell Due to Raspberry Pi devices being unavailable at the moment, we have to skip the implementation parts of Subphase B and C.&#xA;The template code already has the implementation ready. Please read through them to understand the code though.&#xA;In this phase, you will be implementing drivers for the built-in timer, GPIO, and UART devices. You&amp;rsquo;ll use then these drivers to implement a simple shell. In the next phase, you&amp;rsquo;ll use the same drivers to implement a bootloader.</description>
+    </item>
     <item>
       <title>Lab 3: Shell and Bootloader Phase 1</title>
       <link>/post/lab3/</link>
