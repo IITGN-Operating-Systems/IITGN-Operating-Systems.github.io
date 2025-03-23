@@ -6,8 +6,15 @@
     <description>Recent content in Lab on OS Labs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 03:43:04 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 01:27:25 +0530</lastBuildDate>
     <atom:link href="/tags/lab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lab 5: FAT32 Filesystem</title>
+      <link>/post/lab5/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/post/lab5/</guid>
+      <description>Introduction In this assignment, you will enable the use of Rust&amp;rsquo;s collections module (Vec, String, HashMap, and friends) by writing a memory allocator, implement the FAT32 file system, implement a Rust interface for a driver for the Raspberry Pi&amp;rsquo;s EMMC (SD card controller), and extend your shell with cd, ls, pwd, and cat, commands.&#xA;Phase 0: Getting Started Fetch the update for lab 5 from our git repository to your development machine.</description>
+    </item>
     <item>
       <title>Lab 4: Shell and Bootloader Phase 2</title>
       <link>/post/lab4/</link>
